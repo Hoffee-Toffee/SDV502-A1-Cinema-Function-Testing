@@ -1,0 +1,5 @@
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\Release\net6.0\SDV502-A1-Cinema-Function-Testing.csproj.AssemblyReference.cache
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\Release\net6.0\SDV502-A1-Cinema-Function-Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\Release\net6.0\SDV502-A1-Cinema-Function-Testing.AssemblyInfoInputs.cache
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\Release\net6.0\SDV502-A1-Cinema-Function-Testing.AssemblyInfo.cs
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\Release\net6.0\SDV502-A1-Cinema-Function-Testing.csproj.CoreCompileInputs.cache

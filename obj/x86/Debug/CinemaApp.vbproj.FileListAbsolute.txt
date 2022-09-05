@@ -1,0 +1,3 @@
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\x86\Debug\CinemaApp.vbproj.AssemblyReference.cache
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\x86\Debug\CinemaApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\tb593\workspace\SDV502-A1-Cinema-Function-Testing\obj\x86\Debug\CinemaApp.vbproj.CoreCompileInputs.cache
